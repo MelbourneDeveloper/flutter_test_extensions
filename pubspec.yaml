@@ -1,7 +1,7 @@
 name: flutter_test_extensions
 description: Extensions to speed up and save on code when writing widget, and integration tests
 version: 0.0.1-beta
-homepage:
+repository: https://github.com/MelbourneDeveloper/flutter_test_extensions
 
 environment:
   sdk: '>=2.18.1 <3.0.0'
